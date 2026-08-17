@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dek Get Port</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Prompt:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <!-- Header Logo Bar -->
+  <header class="navbar">
+    <div class="logo">Dek<span>Get Port</span></div>
+  </header>
+
+  <main class="container">
+    
+    <!-- 1. หน้าแรก (Dashboard) -->
+    <section id="view-home" class="page-view active">
+      <div class="hero-banner">
+        <h1>ทุนการศึกษา & กิจกรรม</h1>
+        <p>เปิดประตูสู่อนาคต และเพิ่มโอกาสในการเรียนรู้</p>
+      </div>
+
+      <div class="stats-grid">
+        <div class="stat-card">
+          <h3 id="stat-total">0</h3>
+          <p>รายการทั้งหมด</p>
+        </div>
+        <div class="stat-card">
+          <h3 id="stat-scholarships">0</h3>
+          <p>ทุนการศึกษา</p>
+        </div>
+        <div class="stat-card">
+          <h3 id="stat-activities">0</h3>
+          <p>กิจกรรม / ค่าย</p>
+        </div>
+      </div>
+
+      <h2 class="section-title"> รายการแนะนำไฮไลท์</h2>
+      <div class="grid-container" id="featured-grid"></div>
+
+       <!-- Footer Section -->
+<footer class="footer-sky">
+  <div class="footer-container">
+    <div class="footer-main">
+      <h2>กลุ่ม Dek Get Port</h2>
+      <p>ติดต่อสอบถาม: <a href="mailto:DekGetPort@gmail.com">DekGetPort@gmail.com</a></p>
+    </div>
+
+    <div class="footer-members">
+      <h3>ทีมผู้จัดทำ</h3>
+      <ul class="member-list">
+        <li>นาย สิทธิพล ศรีชนะ (เขียนโค้ด)</li>
+        <li>น.ส. ภคนันท์ แดงเผือก (หาข้อมูล)</li>
+        <li>น.ส. พชรมณ นามฤทธิ์ธา (หาข้อมูล)</li>
+        <li>น.ส. ระพีร ทำว่อง (ออกแบบ)</li>
+        <li>น.ส. กัญญาณัฐ เป็นเรียบร้อย (หาข้อมูลและทำ word)</li>
+        <li>น.ส. ลักษณพร สีหอม (ออกแบบ)</li>
+      </ul>
+    </div>
+  </div>
+  
+  <div class="footer-bottom">
+    <p>&copy; 2026 Scholarship Hub - พัฒนาเพื่อการศึกษา</p>
+  </div>
+</footer>
+    </section>
+    
+   
+
+    <!-- 2. หน้ารวมกิจกรรม -->
+    <section id="view-activity" class="page-view">
+      <h2 class="section-title">ค่าย และ กิจกรรมทั้งหมด</h2>
+      <div class="filter-card">
+        <input type="text" id="activity-search" placeholder="🔍 ค้นหากิจกรรม..." oninput="filterData('activity')">
+        <select id="activity-category" onchange="filterData('activity')">
+          <option value="all">ทุกหมวดหมู่</option>
+          <option value="เทคโนโลยี">เทคโนโลยี</option>
+          <option value="จิตอาสา">จิตอาสา</option>
+          <option value="การแข่งขัน">การแข่งขัน</option>
+        </select>
+      </div>
+      <div class="grid-container" id="activity-grid"></div>
+      <p id="activity-no-data" class="no-data" style="display:none;">ไม่พบกิจกรรมที่คุณค้นหา</p>
+    </section>
+
+    <!-- 3. หน้ารวมทุนการศึกษา -->
+    <section id="view-scholarship" class="page-view">
+      <h2 class="section-title">🎓 ทุนการศึกษาทั้งหมด</h2>
+      <div class="filter-card">
+        <input type="text" id="scholarship-search" placeholder="🔍 ค้นหาทุนการศึกษา..." oninput="filterData('scholarship')">
+        <select id="scholarship-category" onchange="filterData('scholarship')">
+          <option value="all">ทุกหมวดหมู่</option>
+          <option value="ต่างประเทศ">ต่างประเทศ</option>
+          <option value="เทคโนโลยี">เทคโนโลยี</option>
+          <option value="ทุนเรียนดี">ทุนเรียนดี</option>
+        </select>
+      </div>
+      <div class="grid-container" id="scholarship-grid"></div>
+      <p id="scholarship-no-data" class="no-data" style="display:none;">ไม่พบทุนการศึกษาที่คุณค้นหา</p>
+    </section>
+
+  </main>
+
+  <!-- 🎈 ปุ่มลอยเมนูด้านล่าง (Bottom Floating Nav) -->
+  <nav class="bottom-nav">
+    <button class="nav-item active" id="nav-home" onclick="switchTab('home')">
+      <span class="icon">🏠</span>
+      <span class="label">หน้าแรก</span>
+    </button>
+    <button class="nav-item" id="nav-activity" onclick="switchTab('activity')">
+      <span class="icon">🚩</span>
+      <span class="label">กิจกรรม</span>
+    </button>
+    <button class="nav-item" id="nav-scholarship" onclick="switchTab('scholarship')">
+      <span class="icon">🎓</span>
+      <span class="label">ทุนการศึกษา</span>
+    </button>
+  </nav>
+
+  <!-- Modal รายละเอียด -->
+  <div class="modal" id="item-modal">
+    <div class="modal-content">
+      <span class="close-btn" onclick="closeModal()">&times;</span>
+      <img id="modal-img" src="" alt="cover">
+      <div class="modal-body">
+        <span class="badge" id="modal-badge">ประเภท</span>
+        <h2 id="modal-title">ชื่อรายการ</h2>
+        <p class="deadline-text">⏳ หมดเขตรับสมัคร: <span id="modal-deadline"></span></p>
+        <p id="modal-desc">รายละเอียด...</p>
+        <div id="modal-tags" class="tags-container"></div>
+        <div class="action-box">
+    <a id="modal-link" href="#" target="_blank" rel="noopener noreferrer" class="apply-btn">
+    
+    </a>
+  </div>
+</div>
+
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
