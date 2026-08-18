@@ -366,7 +366,7 @@
     "category": "เทคโนโลยี",
     "deadline": "ตามรอบรับสมัครประจำปีของ สวทช. (ปกติเปิดรับข้อเสนอโครงการช่วงเดือนพฤษภาคม)",
     "description": "เวทีประกวดพัฒนาซอฟต์แวร์ระดับประเทศ จัดโดย NECTEC/สวทช. เปิดรับนักเรียน นิสิต นักศึกษาส่งผลงานซอฟต์แวร์เข้าแข่งขัน ผู้ผ่านรอบชิงชนะเลิศได้รับถ้วยพระราชทานและเกียรติบัตรระดับประเทศ",
-    "image": "https://example.com/images/nsc.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVfeY269nrdaew3AEdl_CDeSUOsur9wb5An7evQxEYaA&s=10",
     "tags": ["เทคโนโลยี", "ซอฟต์แวร์", "ระดับประเทศ", "NSTDA", "เกียรติบัตร"],
     "featured": true,
     "link": "https://www.nstda.or.th/nsc/"
@@ -378,7 +378,7 @@
     "category": "เทคโนโลยี",
     "deadline": "ตามรอบรับสมัครประจำปีของ สวทช. (ปกติเปิดรับสมัครช่วงกลางปี)",
     "description": "เวทีประกวดโครงงานวิทยาศาสตร์และเทคโนโลยีของนักเรียนระดับมัธยม จัดโดย สวทช. ผู้ผ่านการคัดเลือกมีสิทธิ์เป็นตัวแทนประเทศไทยไปแข่งขัน Intel ISEF ในต่างประเทศ",
-    "image": "https://example.com/images/ysc.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVfeY269nrdaew3AEdl_CDeSUOsur9wb5An7evQxEYaA&s=10",
     "tags": ["เทคโนโลยี", "วิทยาศาสตร์", "ระดับประเทศ", "NSTDA", "เกียรติบัตร"],
     "featured": false,
     "link": "https://www.nstda.or.th/ysc/"
@@ -390,7 +390,7 @@
     "category": "เทคโนโลยี",
     "deadline": "ตามประกาศรับสมัครประจำปีของสมาคมวิชาการหุ่นยนต์แห่งประเทศไทย",
     "description": "การแข่งขันหุ่นยนต์ระดับประเทศ เปิดรับทีมนักเรียน นักศึกษาในหลายประเภท เช่น หุ่นยนต์กู้ภัย หุ่นยนต์บริการ ผู้ชนะได้เป็นตัวแทนไปแข่งขัน RoboCup ระดับนานาชาติ",
-    "image": "https://example.com/images/robocup.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVfeY269nrdaew3AEdl_CDeSUOsur9wb5An7evQxEYaA&s=10",
     "tags": ["เทคโนโลยี", "หุ่นยนต์", "ระดับประเทศ", "เกียรติบัตร"],
     "featured": false,
     "link": "https://www.trct.or.th/"
@@ -402,7 +402,7 @@
     "category": "จิตอาสา",
     "deadline": "เปิดรับสมัครและจัดกิจกรรมต่อเนื่องตลอดปี ตามพื้นที่ที่ประกาศ",
     "description": "โครงการจิตอาสาพระราชทานเพื่อบำเพ็ญสาธารณประโยชน์ในพื้นที่ต่างๆ ทั่วประเทศ ผู้เข้าร่วมกิจกรรมจะได้รับบัตรจิตอาสาและหลักฐานการเข้าร่วมที่สามารถใช้ยื่นสมัครเรียนหรือใส่ใน Portfolio ได้",
-    "image": "https://example.com/images/jitarsa904.jpg",
+    "image": "https://scontent.fbkk6-2.fna.fbcdn.net/v/t1.15752-9/771588753_1350720043409232_7763081207812091584_n.jpg?stp=dst-jpg_s526x395_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeHJoYbM2hfvUpM2rpUGN0wDo0PXTuAu8LCjQ9dO4C7wsPbWRtJ4B6-1VXcyJfKSJBbW0iM3fybXyhoMYGyRp5WM&_nc_ohc=3pWv9fIKE6kQ7kNvwFOHXZ9&_nc_oc=AdpUD_ezKVriWgDVAmPh23IqXcGUaZABZ4K7PN8SYWcdyiqa9LlzyJzMP4l59KhH2rU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fbkk6-2.fna&_nc_ss=7a22e&oh=03_Q7cD6AGzSZhbopAuT9e0DBcpLlNDYdEM8yteWrIhDXYmNHAPng&oe=6AAB319A",
     "tags": ["จิตอาสา", "สาธารณประโยชน์", "ระดับประเทศ", "เกียรติบัตร"],
     "featured": true,
     "link": "https://jitarsa904.com"
@@ -414,7 +414,7 @@
     "category": "จิตอาสา",
     "deadline": "ตามประกาศรับสมัครค่ายและกิจกรรมของสำนักงานยุวกาชาด สภากาชาดไทยในแต่ละปี",
     "description": "กิจกรรมและค่ายอบรมของยุวกาชาด เน้นการบำเพ็ญประโยชน์ ปฐมพยาบาล และจิตอาสาช่วยเหลือสังคม ผู้ผ่านการอบรมได้รับวุฒิบัตรจากสภากาชาดไทย",
-    "image": "https://example.com/images/redcross-youth.jpg",
+    "image": "https://scontent.fbkk6-2.fna.fbcdn.net/v/t1.15752-9/771588753_1350720043409232_7763081207812091584_n.jpg?stp=dst-jpg_s526x395_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeHJoYbM2hfvUpM2rpUGN0wDo0PXTuAu8LCjQ9dO4C7wsPbWRtJ4B6-1VXcyJfKSJBbW0iM3fybXyhoMYGyRp5WM&_nc_ohc=3pWv9fIKE6kQ7kNvwFOHXZ9&_nc_oc=AdpUD_ezKVriWgDVAmPh23IqXcGUaZABZ4K7PN8SYWcdyiqa9LlzyJzMP4l59KhH2rU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fbkk6-2.fna&_nc_ss=7a22e&oh=03_Q7cD6AGzSZhbopAuT9e0DBcpLlNDYdEM8yteWrIhDXYmNHAPng&oe=6AAB319A",
     "tags": ["จิตอาสา", "สภากาชาดไทย", "ระดับประเทศ", "เกียรติบัตร"],
     "featured": false,
     "link": "https://www.redcross.or.th/youth/"
@@ -426,7 +426,7 @@
     "category": "จิตอาสา",
     "deadline": "เปิดรับสมัครกิจกรรมอาสาต่อเนื่องตลอดปี ขึ้นอยู่กับโครงการที่เปิดในแต่ละช่วง",
     "description": "แพลตฟอร์มกลางรวบรวมกิจกรรมจิตอาสาทั่วประเทศ ผู้เข้าร่วมสามารถลงชั่วโมงจิตอาสาสะสม พร้อมรับหนังสือรับรอง/เกียรติบัตรใช้ประกอบ Portfolio",
-    "image": "https://example.com/images/jitarsabank.jpg",
+    "image": "https://scontent.fbkk6-2.fna.fbcdn.net/v/t1.15752-9/771588753_1350720043409232_7763081207812091584_n.jpg?stp=dst-jpg_s526x395_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeHJoYbM2hfvUpM2rpUGN0wDo0PXTuAu8LCjQ9dO4C7wsPbWRtJ4B6-1VXcyJfKSJBbW0iM3fybXyhoMYGyRp5WM&_nc_ohc=3pWv9fIKE6kQ7kNvwFOHXZ9&_nc_oc=AdpUD_ezKVriWgDVAmPh23IqXcGUaZABZ4K7PN8SYWcdyiqa9LlzyJzMP4l59KhH2rU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fbkk6-2.fna&_nc_ss=7a22e&oh=03_Q7cD6AGzSZhbopAuT9e0DBcpLlNDYdEM8yteWrIhDXYmNHAPng&oe=6AAB319A",
     "tags": ["จิตอาสา", "สะสมชั่วโมง", "ระดับประเทศ", "เกียรติบัตร"],
     "featured": false,
     "link": "https://jitarsabank.com"
@@ -438,7 +438,7 @@
     "category": "การแข่งขัน",
     "deadline": "ตามปฏิทินการแข่งขันของ สพฐ. ในแต่ละปีการศึกษา (แข่งระดับเขต → จังหวัด → ภาค → ชาติ)",
     "description": "เวทีการแข่งขันทักษะทางวิชาการและศิลปะของนักเรียนทั่วประเทศ จัดโดยสำนักงานคณะกรรมการการศึกษาขั้นพื้นฐาน ครอบคลุมหลายรายวิชาและกิจกรรม ผู้เข้าแข่งขันทุกระดับได้รับเกียรติบัตร",
-    "image": "https://example.com/images/sillapa.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqk8ipgIlQq4W1Qqxs9oRoNR7_dolRIVaHpJSzAq8uFg&s=10",
     "tags": ["การแข่งขัน", "ระดับจังหวัด", "ระดับประเทศ", "สพฐ.", "เกียรติบัตร"],
     "featured": true,
     "link": "http://www.sillapa.net"
@@ -450,7 +450,7 @@
     "category": "การแข่งขัน",
     "deadline": "ตามปฏิทินการแข่งขันของสำนักงานคณะกรรมการการอาชีวศึกษา (แข่งระดับสถานศึกษา → จังหวัด/ภาค → ชาติ)",
     "description": "เวทีแข่งขันทักษะวิชาชีพของนักเรียนนักศึกษาสายอาชีวศึกษาทั่วประเทศ จัดโดย สอศ. ครอบคลุมสาขาช่างอุตสาหกรรม พาณิชยกรรม และอื่นๆ ผู้เข้าแข่งขันได้รับเกียรติบัตรตามระดับที่เข้าร่วม",
-    "image": "https://example.com/images/ovec-skill.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVfeY269nrdaew3AEdl_CDeSUOsur9wb5An7evQxEYaA&s=10",
     "tags": ["การแข่งขัน", "ระดับจังหวัด", "ระดับประเทศ", "อาชีวศึกษา", "เกียรติบัตร"],
     "featured": false,
     "link": "https://www.vec.go.th"
@@ -462,7 +462,7 @@
     "category": "การแข่งขัน",
     "deadline": "ตามปฏิทินสอบคัดเลือกของมูลนิธิ สอวน. ในแต่ละปีการศึกษา (ระดับศูนย์/จังหวัด → ค่าย → ระดับชาติ)",
     "description": "การแข่งขันวิชาการด้านคณิตศาสตร์ วิทยาศาสตร์ (ฟิสิกส์ เคมี ชีววิทยา คอมพิวเตอร์ ฯลฯ) จัดโดยมูลนิธิส่งเสริมโอลิมปิกวิชาการและพัฒนามาตรฐานวิทยาศาสตร์ศึกษา ผู้ผ่านการคัดเลือกมีสิทธิ์เป็นตัวแทนประเทศไทยแข่งขันโอลิมปิกวิชาการนานาชาติ",
-    "image": "https://example.com/images/posn.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVfeY269nrdaew3AEdl_CDeSUOsur9wb5An7evQxEYaA&s=10",
     "tags": ["การแข่งขัน", "ระดับจังหวัด", "ระดับประเทศ", "สอวน.", "เกียรติบัตร"],
     "featured": false,
     "link": "https://www.posn.or.th"
